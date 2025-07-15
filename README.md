@@ -96,10 +96,12 @@ Sales Distribution (Size & Category)
 Best vs Worst Sellers
 
 ![](https://github.com/SREEJITA1904/PIZZA-SALES-ANALYSIS/raw/main/Slide1.PNG)
+
 ![](https://github.com/SREEJITA1904/PIZZA-SALES-ANALYSIS/raw/main/Slide2.PNG)
 
 ✨ Key Insights
-![KEY](dashboard_preview.png)
+
+![](https://github.com/SREEJITA1904/PIZZA-SALES-ANALYSIS/raw/main/Key%20Insights.png)
 
 🧰 Tools and Technologies
 Tool	Purpose
@@ -109,7 +111,7 @@ Tableau 2024	Data visualization & dashboarding
 Canva	Theme design for dashboard/report
 
 🔗 References
-YouTube: @datatutorials1
-Topmate: Data Tutorials
+![YouTube:](https://www.youtube.com/@datatutorials1)
+
 
 
