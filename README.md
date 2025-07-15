@@ -115,7 +115,6 @@ Sales Distribution (Size & Category)
 - Canva	Theme design for dashboard/report
 
 🔗 **References**
-![](https://www.youtube.com/@datatutorials1)
 
-
+[![YouTube](https://img.youtube.com/vi/YOUR_VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/@datatutorials1)
 
