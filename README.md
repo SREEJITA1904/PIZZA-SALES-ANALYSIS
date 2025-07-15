@@ -7,7 +7,6 @@
 - [KPI’s Requirement](#kpis-requirement)
 - [Charts Requirement](#charts-requirement)
 - [Data Analysis using MySQL](#data-analysis-using-mysql)
-- [Data Cleaning](#data-cleaning)
 - [Dashboard using Tableau](#dashboard-using-tableau)
 - [Key Insights](#key-insights)
 - [Tools and Technologies](#tools-and-technologies)
