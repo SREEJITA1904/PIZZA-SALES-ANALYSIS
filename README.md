@@ -88,7 +88,7 @@ Total Orders COUNTD([order id])
 Average Order Value [total revenue] / [total orders]
 Total Pizzas Sold SUM([quantity])
 Average Pizzas Per Order [total pizzas sold] / [total orders]
-![KPI](dashboard_preview.png)
+![](https://github.com/SREEJITA1904/PIZZA-SALES-ANALYSIS/raw/main/KPI's.png)
 Hourly & Weekly Trends
 Sales Distribution (Size & Category)
 Best vs Worst Sellers
