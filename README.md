@@ -49,40 +49,43 @@ We identified the following charts to visualize and analyze performance:
 ## 💻 Data Analysis using MySQL
 
 Using MySQL, I wrote SQL queries to calculate the KPIs and prepare the data for visualization.
-📊 SQL Summary: Key Metrics & Insights
-💰 Total Revenue Generated: ₹817,860 from all pizza sales.
-🛍️ Total Orders: 4,869 unique customer orders.
-🍕 Total Pizzas Sold: 49,574 pizzas in total.
-💸 Average Order Value (AOV): ₹38.31 per order.
-📦 Average Pizzas per Order: Around 2.28 pizzas per order.
+📊 **SQL Summary: Key Metrics & Insights**
+💰 **Total Revenue Generated:** ₹817,860 from all pizza sales.
+🛍️ **Total Orders:** 4,869 unique customer orders.
+🍕 **Total Pizzas Sold:** 49,574 pizzas in total.
+💸 **Average Order Value (AOV):** ₹38.31 per order.
+📦 **Average Pizzas per Order:** Around 2.28 pizzas per order.
 
-⏰ Sales Trends
+⏰ **Sales Trends**
 Hourly Trend: Sales peak during 12 PM–1 PM and 6 PM–8 PM, suggesting lunch and dinner rushes.
 Weekly Trend: Highest order volumes appear during the last week of December, indicating seasonal surges.
 
-🧁 Category & Size Analysis
-By Category:
+🧁 **Category & Size Analysis**
+**By Category:**
 Classic pizzas generated the highest revenue.
 Veggie pizzas contributed the least.
 
-By Size:
+**By Size:**
 
 Large pizzas were the most preferred.
 Small pizzas saw the lowest sales and revenue share.
 
-🥇 Top Performers
+🥇 **Top Performers**
 Top 5 Pizzas by Revenue: The best-selling pizzas contributed significantly to overall income.
 Top 5 Pizzas by Quantity Sold: These pizzas were customer favorites in terms of volume.
 Top 5 Pizzas by Total Orders: These had the highest repeat and unique order counts.
 
-📉 Low Performers
+📉 **Low Performers**
 Bottom 5 Pizzas by Revenue, Quantity, and Orders:
 These underperformed across all KPIs and could be candidates for promotions or menu re-evaluation.
 
-📈 Dashboard using Tableau
+---
+
+## 📈 Dashboard using Tableau
+
 A pizza-themed interactive dashboard was created using Tableau including:
 
-KPI Cards
+**KPI Cards**
 Total Revenue SUM([order id])
 Total Orders COUNTD([order id])
 Average Order Value [total revenue] / [total orders]
@@ -91,9 +94,9 @@ Average Pizzas Per Order [total pizzas sold] / [total orders]
 
 ![](https://github.com/SREEJITA1904/PIZZA-SALES-ANALYSIS/raw/main/KPI's.png)
 
-Hourly & Weekly Trends
+**Hourly & Weekly Trends**
 Sales Distribution (Size & Category)
-Best vs Worst Sellers
+**Best vs Worst Sellers**
 
 ![](https://github.com/SREEJITA1904/PIZZA-SALES-ANALYSIS/raw/main/Slide1.PNG)
 
@@ -103,15 +106,16 @@ Best vs Worst Sellers
 
 ![](https://github.com/SREEJITA1904/PIZZA-SALES-ANALYSIS/raw/main/Key%20Insights.png)
 
-🧰 Tools and Technologies
-Tool	Purpose
-MySQL 8.0.36	Data querying and analysis
-Excel 2021	Pre-processing, CSV cleanup
-Tableau 2024	Data visualization & dashboarding
-Canva	Theme design for dashboard/report
+---
+🧰 **Tools and Technologies**
 
-🔗 References
-![YouTube:](https://www.youtube.com/@datatutorials1)
+- MySQL 8.0.36	Data querying and analysis
+- Excel 2021	Pre-processing, CSV cleanup
+- Tableau 2024	Data visualization & dashboarding
+- Canva	Theme design for dashboard/report
+
+🔗 **References**
+![](https://www.youtube.com/@datatutorials1)
 
 
 
