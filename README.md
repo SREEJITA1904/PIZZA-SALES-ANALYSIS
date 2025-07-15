@@ -114,7 +114,15 @@ Sales Distribution (Size & Category)
 - Tableau 2024	Data visualization & dashboarding
 - Canva	Theme design for dashboard/report
 
+ ## 📄 Project Report
+
+The entire Pizza Sales Analysis — including business objectives, KPIs, SQL queries, visual insights, and final dashboard — is documented in the attached report below.
+
+📥 **[Download Full Report](Pizza_Sales_Analysis_Report.pdf)**
+
+This report guided the creation of every visualization and data point shown in the Tableau dashboard, ensuring accuracy and business relevance throughout the project.
+
 🔗 **References**
 
-[![YouTube](https://img.youtube.com/vi/YOUR_VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/@datatutorials1)
+[![Youtube:datatutorials1](https://img.youtube.com/vi/YOUR_VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/@datatutorials1)
 
