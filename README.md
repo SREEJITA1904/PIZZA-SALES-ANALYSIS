@@ -96,7 +96,7 @@ Sales Distribution (Size & Category)
 Best vs Worst Sellers
 
 ![](https://github.com/SREEJITA1904/PIZZA-SALES-ANALYSIS/raw/main/Slide1.PNG)
-![Dashboard 2](dashboard_preview.png)
+![](https://github.com/SREEJITA1904/PIZZA-SALES-ANALYSIS/raw/main/Slide2.PNG)
 
 ✨ Key Insights
 ![KEY](dashboard_preview.png)
@@ -112,4 +112,4 @@ Canva	Theme design for dashboard/report
 YouTube: @datatutorials1
 Topmate: Data Tutorials
 
-![Dasboard use]()
+
